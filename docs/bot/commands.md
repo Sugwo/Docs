@@ -46,7 +46,7 @@ The default prefix is `p.` but can be changed with the [prefix command](#prefix)
 - [Smile](#smile)
 - [Tail](#tail)
 - [Tickle](#tickle)
-
+- [Marry] (#marry) 
 ### [Guild](#category-guild)
 - [Language](#language)
 - [Prefix](#prefix)
